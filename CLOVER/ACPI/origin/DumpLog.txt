@@ -1,0 +1,104 @@
+10:786  0:113  Found UEFI Acpi 2.0 RSDP at %p
+10:786  0:000  Saving ACPI tables from RSDP %p to Âçí‚ÅÑÂëê‚ÅíÂÑã‰ÖïÂëé…ÅÌÉÑÁüø$ ...
+10:786  0:000   %p: 'RSD PTR QUANTAƒ–ˇw$', Rev: 1957458007 (Acpi 2.0 or newer), Len: 36
+10:786  0:000    (Xsdt: %p, Rsdt: %p)
+10:786  0:000    %p: 'XSDT¸', 'XSDT', Rev: 1957457799, Len: 1
+10:786  0:000    %p: 'RSDTê', 'RSDT', Rev: 1957457799, Len: 1
+10:786  0:000    Tables in Xsdt: 27
+10:786  0:000    0. %p: 'FACPÙ', 'FACP', Rev: 1957457799, Len: 5
+10:786  0:000        (Dsdt: 77FA1000, Facs: 77F3C000, XDsdt: 77fa1000, XFacs: 0)
+10:786  0:000        %p: 'DSDT™,', 'DSDT', Rev: 1957457639, Len: 2
+10:788  0:002        %p: 'FACS@', Ver: 1957457835, Len: 2
+10:788  0:000    1. %p: 'UEFIB', 'UEFI', Rev: 1957457799, Len: 1
+10:788  0:000    2. %p: 'SSDTKX', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    3. %p: 'SSDT≈', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    4. %p: 'LPITî', 'LPIT', Rev: 1957457799, Len: 1
+10:788  0:000    5. %p: 'APICº', 'APIC', Rev: 1957457799, Len: 3
+10:788  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1957457799, Len: 1
+10:788  0:000    7. %p: 'WDAT4', 'WDAT', Rev: 1957457799, Len: 1
+10:788  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    9. %p: 'SSDT‘', 'SSDT', Rev: 1957457799, Len: 1
+10:788  0:000    10. %p: 'SSDTÆ+', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    11. %p: 'SSDTö', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    12. %p: 'SSDTI', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    13. %p: 'SSDT£', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    14. %p: 'DBGP4', 'DBGP', Rev: 1957457799, Len: 1
+10:788  0:000    15. %p: 'DBG2T', 'DBG2', Rev: 1957457799, Len: 0
+10:788  0:000    16. %p: 'SSDTq', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    17. %p: 'BOOT(', 'BOOT', Rev: 1957457799, Len: 1
+10:788  0:000    18. %p: 'BATBF', 'BATB', Rev: 1957457799, Len: 1
+10:788  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1957457799, Len: 2
+10:788  0:000    20. %p: 'POATU', 'POAT', Rev: 1957457799, Len: 3
+10:788  0:000    21. %p: 'SLICv', 'SLIC', Rev: 1957457799, Len: 1
+10:788  0:000    22. %p: 'SSDT€', 'SSDT', Rev: 1957457799, Len: 1
+10:788  0:000    23. %p: 'FPDTD', 'FPDT', Rev: 1957457799, Len: 1
+10:788  0:000    24. %p: 'ASF!•', 'ASF!', Rev: 1957457799, Len: 32
+10:788  0:000    25. %p: 'BGRT8', 'BGRT', Rev: 1957457799, Len: 1
+10:788  0:000    26. %p: 'UEFI*', 'UEFI', Rev: 1957457799, Len: 1
+10:788  0:000    Tables in Rsdt: 27
+10:788  0:000    0. %p: 'FACPÙ', 'FACP', Rev: 1957457799, Len: 5
+10:788  0:000        (Dsdt: 77FA1000, Facs: 77F3C000, XDsdt: 77fa1000, XFacs: 0)
+10:788  0:000        %p: 'DSDT™,', 'DSDT', Rev: 1957457639, Len: 2
+10:790  0:002        %p: 'FACS@', Ver: 1957457835, Len: 2
+10:790  0:000    1. %p: 'UEFIB', 'UEFI', Rev: 1957457799, Len: 1
+10:790  0:000    2. %p: 'SSDTKX', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    3. %p: 'SSDT≈', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    4. %p: 'LPITî', 'LPIT', Rev: 1957457799, Len: 1
+10:790  0:000    5. %p: 'APICº', 'APIC', Rev: 1957457799, Len: 3
+10:790  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1957457799, Len: 1
+10:790  0:000    7. %p: 'WDAT4', 'WDAT', Rev: 1957457799, Len: 1
+10:790  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    9. %p: 'SSDT‘', 'SSDT', Rev: 1957457799, Len: 1
+10:790  0:000    10. %p: 'SSDTÆ+', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    11. %p: 'SSDTö', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    12. %p: 'SSDTI', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    13. %p: 'SSDT£', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    14. %p: 'DBGP4', 'DBGP', Rev: 1957457799, Len: 1
+10:790  0:000    15. %p: 'DBG2T', 'DBG2', Rev: 1957457799, Len: 0
+10:790  0:000    16. %p: 'SSDTq', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    17. %p: 'BOOT(', 'BOOT', Rev: 1957457799, Len: 1
+10:790  0:000    18. %p: 'BATBF', 'BATB', Rev: 1957457799, Len: 1
+10:790  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1957457799, Len: 2
+10:790  0:000    20. %p: 'POATU', 'POAT', Rev: 1957457799, Len: 3
+10:790  0:000    21. %p: 'SLICv', 'SLIC', Rev: 1957457799, Len: 1
+10:790  0:000    22. %p: 'SSDT€', 'SSDT', Rev: 1957457799, Len: 1
+10:790  0:000    23. %p: 'FPDTD', 'FPDT', Rev: 1957457799, Len: 1
+10:790  0:000    24. %p: 'ASF!•', 'ASF!', Rev: 1957457799, Len: 32
+10:790  0:000    25. %p: 'BGRT8', 'BGRT', Rev: 1957457799, Len: 1
+10:790  0:000    26. %p: 'UEFI*', 'UEFI', Rev: 1957457799, Len: 1
+10:790  0:000  Found UEFI Acpi 1.0 RSDP at %p
+10:790  0:000  Printing ACPI tables from RSDP %p ...
+10:790  0:000   %p: 'RSD PTR —QUANTA', Rev: 1957458007 (Acpi 1.0), Len: 20
+10:790  0:000    (Rsdt: %p)
+10:790  0:000    %p: 'RSDTê', 'RSDT', Rev: 1957457799, Len: 1
+10:790  0:000    Tables in Rsdt: 27
+10:790  0:000    0. %p: 'FACPÙ', 'FACP', Rev: 1957457799, Len: 5
+10:790  0:000        (Dsdt: 77FA1000, Facs: 77F3C000, XDsdt: 77fa1000, XFacs: 0)
+10:790  0:000        %p: 'DSDT™,', 'DSDT', Rev: 1957457639, Len: 2
+10:792  0:002        %p: 'FACS@', Ver: 1957457835, Len: 2
+10:792  0:000    1. %p: 'UEFIB', 'UEFI', Rev: 1957457799, Len: 1
+10:792  0:000    2. %p: 'SSDTKX', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    3. %p: 'SSDT≈', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    4. %p: 'LPITî', 'LPIT', Rev: 1957457799, Len: 1
+10:792  0:000    5. %p: 'APICº', 'APIC', Rev: 1957457799, Len: 3
+10:792  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1957457799, Len: 1
+10:792  0:000    7. %p: 'WDAT4', 'WDAT', Rev: 1957457799, Len: 1
+10:792  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    9. %p: 'SSDT‘', 'SSDT', Rev: 1957457799, Len: 1
+10:792  0:000    10. %p: 'SSDTÆ+', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    11. %p: 'SSDTö', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    12. %p: 'SSDTI', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    13. %p: 'SSDT£', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    14. %p: 'DBGP4', 'DBGP', Rev: 1957457799, Len: 1
+10:792  0:000    15. %p: 'DBG2T', 'DBG2', Rev: 1957457799, Len: 0
+10:792  0:000    16. %p: 'SSDTq', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    17. %p: 'BOOT(', 'BOOT', Rev: 1957457799, Len: 1
+10:792  0:000    18. %p: 'BATBF', 'BATB', Rev: 1957457799, Len: 1
+10:792  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1957457799, Len: 2
+10:792  0:000    20. %p: 'POATU', 'POAT', Rev: 1957457799, Len: 3
+10:792  0:000    21. %p: 'SLICv', 'SLIC', Rev: 1957457799, Len: 1
+10:792  0:000    22. %p: 'SSDT€', 'SSDT', Rev: 1957457799, Len: 1
+10:792  0:000    23. %p: 'FPDTD', 'FPDT', Rev: 1957457799, Len: 1
+10:792  0:000    24. %p: 'ASF!•', 'ASF!', Rev: 1957457799, Len: 32
+10:792  0:000    25. %p: 'BGRT8', 'BGRT', Rev: 1957457799, Len: 1
+10:792  0:000    26. %p: 'UEFI*', 'UEFI', Rev: 1957457799, Len: 1
